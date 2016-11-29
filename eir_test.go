@@ -1,9 +1,9 @@
-package eir_test
+package main
 
 import "testing"
 
 func TestFake(t *testing.T) {
 	if true {
-		println("test pass")
+		println("eir test pass")
 	}
 }
